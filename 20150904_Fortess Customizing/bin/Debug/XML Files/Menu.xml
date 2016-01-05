@@ -1,0 +1,14 @@
+<Application>
+	<Menus>
+		<action type="add">
+			
+			<!--<Menu Checked="0" Enabled="1" FatherUID="2048" Image="" Position="2" String="Sales Order Line Closure"
+			Type="1" UniqueID="DABT_910">
+			</Menu>-->
+      <Menu Checked="0" Enabled="1" FatherUID="3584" Image="" Position="3" String="Contract Renewal"
+Type="1" UniqueID="Z_mnu_FORT01"></Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="3584" Image="" Position="4" String="Invoice Generation"
+Type="1" UniqueID="Z_mnu_FORT02"></Menu>
+		</action>
+	</Menus>
+</Application>

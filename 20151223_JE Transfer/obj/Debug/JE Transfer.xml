@@ -1,0 +1,83 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+JETransfer
+</name>
+</assembly>
+<members>
+<member name="M:JE_Transfer.WebReference.UBSWebservice.#ctor">
+	<remarks/>
+</member><member name="E:JE_Transfer.WebReference.UBSWebservice.getBackEndStoredProcedureCallCompleted">
+	<remarks/>
+</member><member name="E:JE_Transfer.WebReference.UBSWebservice.adaptorServiceCompleted">
+	<remarks/>
+</member><member name="E:JE_Transfer.WebReference.UBSWebservice.doIFXCompleted">
+	<remarks/>
+</member><member name="M:JE_Transfer.WebReference.UBSWebservice.getBackEndStoredProcedureCall(JE_Transfer.WebReference.getBackEndStoredProcedureCall)">
+	<remarks/>
+</member><member name="M:JE_Transfer.WebReference.UBSWebservice.getBackEndStoredProcedureCallAsync(JE_Transfer.WebReference.getBackEndStoredProcedureCall)">
+	<remarks/>
+</member><member name="M:JE_Transfer.WebReference.UBSWebservice.getBackEndStoredProcedureCallAsync(JE_Transfer.WebReference.getBackEndStoredProcedureCall,System.Object)">
+	<remarks/>
+</member><member name="M:JE_Transfer.WebReference.UBSWebservice.adaptorService(JE_Transfer.WebReference.adaptorService)">
+	<remarks/>
+</member><member name="M:JE_Transfer.WebReference.UBSWebservice.adaptorServiceAsync(JE_Transfer.WebReference.adaptorService)">
+	<remarks/>
+</member><member name="M:JE_Transfer.WebReference.UBSWebservice.adaptorServiceAsync(JE_Transfer.WebReference.adaptorService,System.Object)">
+	<remarks/>
+</member><member name="M:JE_Transfer.WebReference.UBSWebservice.doIFX(JE_Transfer.WebReference.doIFX)">
+	<remarks/>
+</member><member name="M:JE_Transfer.WebReference.UBSWebservice.doIFXAsync(JE_Transfer.WebReference.doIFX)">
+	<remarks/>
+</member><member name="M:JE_Transfer.WebReference.UBSWebservice.doIFXAsync(JE_Transfer.WebReference.doIFX,System.Object)">
+	<remarks/>
+</member><member name="M:JE_Transfer.WebReference.UBSWebservice.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:JE_Transfer.WebReference.UBSWebservice">
+	<remarks/>
+</member><member name="P:JE_Transfer.WebReference.getBackEndStoredProcedureCall.ifxMessage">
+	<remarks/>
+</member><member name="T:JE_Transfer.WebReference.getBackEndStoredProcedureCall">
+	<remarks/>
+</member><member name="P:JE_Transfer.WebReference.getBackEndStoredProcedureCallResponse.getBackEndStoredProcedureCallResult">
+	<remarks/>
+</member><member name="T:JE_Transfer.WebReference.getBackEndStoredProcedureCallResponse">
+	<remarks/>
+</member><member name="P:JE_Transfer.WebReference.adaptorService.ifxMessage">
+	<remarks/>
+</member><member name="T:JE_Transfer.WebReference.adaptorService">
+	<remarks/>
+</member><member name="P:JE_Transfer.WebReference.adaptorServiceResponse.adaptorServiceResult">
+	<remarks/>
+</member><member name="T:JE_Transfer.WebReference.adaptorServiceResponse">
+	<remarks/>
+</member><member name="P:JE_Transfer.WebReference.doIFX.ifxMessage">
+	<remarks/>
+</member><member name="T:JE_Transfer.WebReference.doIFX">
+	<remarks/>
+</member><member name="P:JE_Transfer.WebReference.doIFXResponse.doIFXResult">
+	<remarks/>
+</member><member name="T:JE_Transfer.WebReference.doIFXResponse">
+	<remarks/>
+</member><member name="T:JE_Transfer.WebReference.getBackEndStoredProcedureCallCompletedEventHandler">
+	<remarks/>
+</member><member name="P:JE_Transfer.WebReference.getBackEndStoredProcedureCallCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:JE_Transfer.WebReference.getBackEndStoredProcedureCallCompletedEventArgs">
+	<remarks/>
+</member><member name="T:JE_Transfer.WebReference.adaptorServiceCompletedEventHandler">
+	<remarks/>
+</member><member name="P:JE_Transfer.WebReference.adaptorServiceCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:JE_Transfer.WebReference.adaptorServiceCompletedEventArgs">
+	<remarks/>
+</member><member name="T:JE_Transfer.WebReference.doIFXCompletedEventHandler">
+	<remarks/>
+</member><member name="P:JE_Transfer.WebReference.doIFXCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:JE_Transfer.WebReference.doIFXCompletedEventArgs">
+	<remarks/>
+</member>
+</members>
+</doc>
